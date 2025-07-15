@@ -16,8 +16,7 @@ Step 3: Indicators
 
         Now that we have data we need to use indicators that help us to make useful predictions. We can implement a large number of variables and having more variables will lead 
         to a more accurate model. This is a simple model that uses MACD, RSI, EMA, SMA, Volume and Brollinger band.
-    Note: There is a failsafe if the amount of data is insufficient wrt the prediction we want to make. It basically checks how many days we want to predict is larger than the          interval
-selected
+    Note: There is a failsafe if the amount of data is insufficient wrt the prediction we want to make. It basically checks how many days we want to predict is larger than the          interval selected
 
 Step 4: Corellation matrix and Feature Dristibution
 
